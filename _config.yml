@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              i am visitor
+bio:                'i-am-visitor project'
+description:        "offical website for the i-am-visitor project"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Salt Lake City, UT
+#phone:              310-318-5555
+email:              info.iamvisitor@gmail.com
 
 # Gems
 gems:
