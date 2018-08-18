@@ -3,8 +3,8 @@ title:              i am visitor
 bio:                'i-am-visitor project'
 description:        "offical website for the i-am-visitor project"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/visitor-website_test" # the subpath of your site, e.g. /blog
+url: "https://i-am-visitor.github.io/" # the base hostname & protocol for your site
 
 defaults:
 - scope:
